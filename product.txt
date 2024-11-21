@@ -1,0 +1,11 @@
+ID,Name,Category,Price,Stock
+1,Apple iPhone 14,Electronics,999,25
+2,Samsung Galaxy S22,Electronics,899,30
+3,Sony WH-1000XM5,Audio,399,50
+4,Dell XPS 13,Laptop,1299,15
+5,Nike Air Max,Shoes,120,100
+6,Adidas Ultraboost,Shoes,180,75
+7,Logitech MX Master 3,Accessories,99,200
+8,Canon EOS R5,Photography,3899,8
+9,Apple MacBook Air,Laptop,999,20
+10,Bose SoundLink Mini,Audio,199,40
